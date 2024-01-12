@@ -1,0 +1,14 @@
+{
+  "name": "Ratings App",
+  "version": "1.0.0",
+  "description": "Rating generator for anime and manga",
+  "manifest_version": 3,
+  "author": "Yashodhan Ketkar",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Anime/Manga Rater"
+  },
+  "icons": {
+    "920": "images/icon.png"
+  }
+}
